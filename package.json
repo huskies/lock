@@ -1,0 +1,22 @@
+{
+  "name": "huskies-lock",
+  "version": "0.0.1",
+  "description": "Lock method according to options, is huskies framework's middle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huskies/lock"
+  },
+  "keywords": [
+    "lock",
+    "method"
+  ],
+  "author": "brighthas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huskies/lock/issues"
+  }
+}
