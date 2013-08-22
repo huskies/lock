@@ -3,6 +3,14 @@ lock
 
 Lock method according to options, is huskies framework's middle.
 
+Install for component
+=====================
+  
+  Install with [component(1)](http://component.io):
+
+    $ component install brighthas/lock
+
+
 Install
 =======
 
