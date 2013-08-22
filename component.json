@@ -1,0 +1,12 @@
+{
+  "name": "lock",
+  "repo": "brighthas/lock",
+  "description": "Lock method according to options, is huskies framework's middle.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "main":"index.js",
+  "scripts":["index.js"],
+  "license": "MIT"
+}
